@@ -1,6 +1,10 @@
 # DatawareHouse
 Se va a almacenar todo lo relacionado a DataWareHouse
 
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+
+
 [Bitacoras](https://github.com/julianmartinez1/DatawareHouse/tree/master/Bitacoras)
 
 [Ejercicios ETL](https://github.com/julianmartinez1/DatawareHouse/tree/master/Ejercicios%20ETL)
