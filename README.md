@@ -1,7 +1,7 @@
 # DatawareHouse
 Se va a almacenar todo lo relacionado a DataWareHouse
 
-![](C:\Users\Marlon Julian\Pictures.jpeg)
+![](https://www.esan.edu.pe/apuntes-empresariales/2015/06/18/Data_Warehouse_Mart_figura_principal.jpg)
 
 
 
