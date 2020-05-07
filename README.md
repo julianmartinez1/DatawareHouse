@@ -2,4 +2,4 @@
 Se va a almacenar todo lo relacionado a DataWareHouse
 
 
-[Bitacoras]: http://link-url/
+[Bitacoras]: https://github.com/julianmartinez1/DatawareHouse/tree/master/Bitacoras
