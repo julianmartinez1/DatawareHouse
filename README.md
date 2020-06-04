@@ -1,5 +1,5 @@
 # DatawareHouse
-Se va a almacenar todo lo relacionado a DataWareHouse
+Everything related to DataWareHouse will be stored here.
 
 
 
@@ -15,12 +15,10 @@ Se va a almacenar todo lo relacionado a DataWareHouse
 
 ### Menu
 
-[Bitacoras](https://github.com/julianmartinez1/DatawareHouse/tree/master/Bitacoras)
+[Binnacle](https://github.com/julianmartinez1/DatawareHouse/tree/master/Bitacoras)
 
-[Ejercicios ETL](https://github.com/julianmartinez1/DatawareHouse/tree/master/Ejercicios%20ETL)
+[ETL Applications](https://github.com/julianmartinez1/DatawareHouse/tree/master/Ejercicios%20ETL)
 
-[Parcial](https://github.com/julianmartinez1/DatawareHouse/tree/master/Parcial)
+[Project](https://github.com/julianmartinez1/DatawareHouse/tree/master/Proyecto)
 
-[Proyecto](https://github.com/julianmartinez1/DatawareHouse/tree/master/Proyecto)
-
-[Sakila](https://github.com/julianmartinez1/DatawareHouse/tree/master/Sakila)
+[Sakila Applications](https://github.com/julianmartinez1/DatawareHouse/tree/master/Sakila)
